@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neon-reporter-427203-n3",
+  "private_key_id": "b1403f033499681882b2bf0128765926ee2cf6e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5h+tTNLgDsk5Z\nCSWqo6y7MaCYdiHb86FB0E42vg8W5k8qVto7B+ncWAKvLqHe+nH6cstxB3Cejn25\n7D0EYe3a4j5r5htn2N/Zwmcta5/VYak5VAzySMLEFgb4aztR5Ew/o9aiWn+gxy9W\nDaYZGEfGr62wOg545xA86Ny3x8/3eW5EuflU+X/FqizuZx1dNXk0DeUuAWJw7CTc\nrYSA7a4WiTVUDot9hgCl5WsCjvRQI/GjcqM0qpMfYiLex81PmYBgs9xmWGSTh9Ak\nXw4za/quLc9TD65BQ1F6V5lqRfdoR3M0Jk1tw3ij6GcbUArGWDDwOek1EXQQw4GZ\nRDiv0k+LAgMBAAECggEAPDMnH3N+texYUbmPGERNmtvqgS3rpKPz0hgWGNsoqESI\nsXNHElpp/o4sKM2XxnM7Iom3C3DfkQMpNne6AL8J37kDih07DUIouE7FDc7bKPCs\naSaloMQNNnTzRA3/TH4oY4n07e8xdGjNKj35hDEFsSl10TW1VnObKDhizdsu1txo\n4R6mtU/Q9VdgOEuR1VDeH37R0O0y02xqMLSng4/Y0+r+tS9JYIlZK2oLTEeoBiyg\nN9d5ZG+k/4ILlVWUjJFfHeS2aoB+z2jzk7M6W1lxYaZk/wpVtoyhZZF4Arq/Us3D\nZhOuTRKarT5QjpaixkazdtLYwXhgmdm/wfwxZ5E1kQKBgQDvvxj7rJeeS6QFZZdr\nQcW3x6icyj8saG5H9eiI9GfYZFFsn4jrR7Ihsb61VR1K8HCENyepQIgeSdGcE7wS\n/IpYmlYWZ5fCcI0lL6hxBWXwrmM/nrYrx22DmFWpWGOfQahd70aPjuZO7z38kjqN\nOcgsbyf3xIfTPFG835umCRwYiQKBgQDGG+NG+Rg2q/GlYKEOimZJuDorP1RsIIF0\nfVNZFf+ySBN32h5UBTUJpTMjDlS0iR4lAWTnlXmWFTlUg/rveRDeX2DjPwoZ1lIL\nOG6+OxBSv0FWikhuD1aCVqabNSj5VBogdGzjpolgpswgZCKh1ZhEYvIkbl57Lrq6\nEwV1K/J6cwKBgQDSFQ57Wx3xJC8yW3d4EUaEaHykB8Wb0Fbyz9VYTXLB+AYxvQpp\nwYWiaPLISzFD/bVa5knm0hl1ERKQRerEaG+CfJt7PoOJar8EGuLrRuOxJ97oXNcd\nPcAFVHOb1UxWvV4gEhAus/W0rYgPzsNoBX4XEcBgKOMsgurNKtRlhg4MoQKBgDHe\n/130gwXwTwqkwqaYbJuORwZwEN6PaEdc7Uh140KMJmp7fDsGfI2LCs5+YxB3nCEQ\nssghttPzT9VYzCjQv1BbjlZmnjJW45xzfl1hHQDXqKkScp1SOyLgkVxtC32IkHMv\nG+JLIDY2hxh4XMeEr6o3hmFpb1tvLg59j1gp0gbFAoGBAOB5rNxap9HHoVr09Wum\nzQfRGvmpL6et0D33soSH8tfRa+CE0T0xuTMnG6odC4Qro23MPzH+gR7enNT26GyN\nE9uuR3Lseq1FeV576rIJVoWHByI5stk0k+O8xxl3SXA8Iir0klTrqAykBiP8mrsa\nXG/GnD671xNaKLhduauWe+0I\n-----END PRIVATE KEY-----\n",
+  "client_email": "mi-python-bot@neon-reporter-427203-n3.iam.gserviceaccount.com",
+  "client_id": "102598201368319741825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mi-python-bot%40neon-reporter-427203-n3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
