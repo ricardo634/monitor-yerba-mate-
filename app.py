@@ -3,10 +3,12 @@ import pandas as pd
 import gspread
 from google.oauth2.service_account import Credentials
 import matplotlib.pyplot as plt
-
+import folium
+from streamlit_folium import folium_static
 # Configuración visual
 st.set_page_config(page_title="Yerba Mate FEDECOOP", layout="wide")
 st.title("🌿 Monitor Satelital de Yerba Mate")
+st.subheader("📍 Ubicación del Sondeo Satelital")
 
 # Conexión segura con tu Google Sheets
 def cargar_datos():
@@ -51,6 +53,13 @@ try:
     ax.plot(historial['fecha'], historial['ndvi'], marker='o', color='green')
     plt.xticks(rotation=45)
     st.pyplot(fig)
+    # Creamos el mapa centrado en el lote de la Cooperativa Liebig
+    m = folium.Map(location=[-28.02, -55.82], zoom_start=15)
+    folium.Marker([-28.02, -55.82], popup="Lote Liebig").add_to(m)
+
+    # Mostramos el mapa interactivo
+    folium_static(m)
+
 
 except Exception as e:
     st.error("Error conectando con los datos. Verifique sus credenciales.")
